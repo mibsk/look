@@ -5,5 +5,11 @@ CCC
 DDD
 f
 get_magic_quotes_gpc
+ddd
+fff
+bbb
+ddd
+xxx
+
 
 
